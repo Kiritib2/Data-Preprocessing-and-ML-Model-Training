@@ -157,7 +157,7 @@ Convert notebooks into a unified ML script
 
  ## Author
 
-Your Name
+Kiriti Nomula
 Aspiring Data Scientist | ML Enthusiast
-LinkedIn: your-link
-GitHub: your-link
+LinkedIn: linkedin.com/in/kiriti-nomula  
+GitHub: github.com/Kiritib2 
